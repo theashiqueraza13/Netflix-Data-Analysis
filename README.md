@@ -123,11 +123,6 @@ Netflix-Data-Analysis/
 └── requirements.txt
 ```
 
-## 8. How to Run This Project
-
-1. Download or clone this repository.
-2. Install Python 3.
-3. Install the required libraries.
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
@@ -142,13 +137,7 @@ VS Code
 5. Open the Netflix analysis notebook.
 6. Run all the cells to perform the analysis.
 
-## 9. Future Improvements
 
-- Perform advanced data analysis.
-- Create interactive dashboards.
-- Analyze genre trends.
-- Compare Movies and TV Shows.
-- Generate more meaningful insights.
 
 ## 10. Conclusion
 
